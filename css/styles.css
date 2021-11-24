@@ -106,7 +106,15 @@ footer a:hover, nav ul a:hover{
             "footer";
   }
 
-  nav ul{
-    position: sticky;
+  main{
+    padding: 3% 5%;
   }
+  
+  footer{
+  padding: 0 5%;
+  }
+  
+footer a:hover, nav ul a:hover{
+  color:none;
+}
 }
